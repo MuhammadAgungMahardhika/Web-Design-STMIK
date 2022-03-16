@@ -1,3 +1,11 @@
+//membuat efek ketika image di hover 
+$('#sstimik').hover(function(){
+    $('#sstimik').css({
+        'transform': 'translate(0px,'+wScrool/8+'%)'
+    });
+});
+
+
 // perulangan
 function fade($ele) {
     $ele.fadeIn(1000).delay(3000).fadeOut(1000, function() {
@@ -10,12 +18,25 @@ fade($('.quoteLoop > .quote').first());
 // navigasi
 
 $(window).scroll(function() {
+    var wScrool = $(this).scrollTop();
 
     if ($(window).scrollTop() > 300) {
         $('.main_nav').addClass('sticky');
     } else {
         $('.main_nav').removeClass('sticky');
     }
+
+    //parallax efex pada tulisan STIMIK Indonesia
+    $('#stimik').css({
+        'transform': 'translate(0px,'+wScrool/4+'%)'
+    });
+
+    $('#sstimik').css({
+        'transform': 'translate(0px,'+wScrool/8+'%)'
+    });
+
+    
+    
 });
 
 // Mobile navigasi

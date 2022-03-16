@@ -6,6 +6,7 @@
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.min.css'>
         <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
         <link rel="stylesheet" href="./style.css">
+        <script src="https://kit.fontawesome.com/9d17737383.js" crossorigin="anonymous"></script>
     </head>
     <body>
 
@@ -26,12 +27,14 @@
                             <li><a class="smoothscroll" href="#skills">Skills</a></li>
                             <li><a class="smoothscroll" href="#portfolio">Portfolio</a></li>
                             <li><a class="smoothscroll" href="#contact">Contact</a></li>
+                            <li><a class="smoothscroll" href="#header"><img src="images/STIMIK_logo_navbar.png"  width="45px" style="position:absolute;bottom: 20px; top: opx;"></a></li>
+                           
                         </ul>
                     </nav>
                 </div>
             </div>
             <div class="title">
-                <div class="heading"><img src="images/STMIK_logo.png"></div>
+                <div class="heading"><img id="sstimik" src="images/STMIK_logo.png" width="90%"></div>
                 <h1 class="heading ">
                     <p id="stimik">STIMIK Indonesia</p>
                 </h1>
@@ -43,7 +46,7 @@
                 </a>
             </div>
             <a class="smoothscroll" href="#about">
-                <div class="scroll-down"></div>
+                <div class="scroll-down" style="visibility: hidden; color: #c0c0c0;"><i class="fa-solid fa-anchor fa-2x" style="visibility: visible;" ></i></div>
             </a>
 
             <div class="ocean">
@@ -55,8 +58,8 @@
 
         <!-- About Section -->
 
-        <section id="about" style="background-image: linear-gradient(to bottom , #015870, #015871); color: white; width: 100%; height: 100%;">
-            <div class="container">
+        <section id="about" >
+            <div class="container heading">
                 <div class="row">
                     <h1>About</h1>
                     <div class="block"></div>
@@ -285,6 +288,7 @@
         <!-- script -->
         <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
         <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js'></script>
+        
         <script src="function.js"></script>
 
     </body>
