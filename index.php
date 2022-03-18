@@ -134,7 +134,7 @@
                 <div class="quoteLoop">
                     <blockquote class="quote">
                         <img src="images/STMIK_logo.png" width="90" height="90" alt=""/>
-                        <p style="color: #eaeaea;">STIMIK Indonesia</p>
+                        <p style="color: #eaeaea;font-weight: 900;">STIMIK Indonesia</p>
                         <h5 style="color: white;">&nbsp;<br>
                             &rdquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&rdquo;<br>
                             <small>Steve Bruce, Sed ut perspiciatis unde omnis</small>
