@@ -117,7 +117,7 @@
                     </div>
                     <div class="six columns">
                         <h3 class="texts">
-                            <i class="fa-solid fa-volleyball"></i></i>Lapangan Olahraga</h3>
+                            <i class="fa-solid fa-volleyball"></i></i> Lapangan Olahraga</h3>
                         <p class="texts">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deserunt ut, blanditiis tempore quia error facere in explicabo vel tenetur nisi maiores est cumque aperiam! Neque numquam ipsa labore repellendus.</p>
                     </div>
                 </div>
