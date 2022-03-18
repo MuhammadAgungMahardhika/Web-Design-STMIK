@@ -157,7 +157,7 @@
         <footer>
             <div class="container">
                 <div class="nine columns">
-                    <p>&copy 2022 Design By Muhammad Agung Mahardhika</p>
+                    <p>&copy 2022 Desain oleh Muhammad Agung Mahardhika</p>
                 </div>
                 <div class="three columns">
                     <a href="https://id-id.facebook.com/stmikindonesia/" style="text-decoration: none;">
