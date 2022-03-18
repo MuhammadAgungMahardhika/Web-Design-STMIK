@@ -141,7 +141,7 @@
                         </h5>
                     </blockquote>
                     <blockquote class="quote">
-                        <img src="https://placehold.it/100x100?text=Second Client" width="100" height="100" style="display: block;"/>
+                        <img src="images/STMIK_logo.png" width="100" height="100" style="display: hidden;"/>
                         <h5 style="color: white;">&nbsp;<br>
                             &ldquo;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.&rdquo;<br>
                             <small>Tom Jones, Sed ut perspiciatis unde omnis</small>
