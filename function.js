@@ -1,9 +1,69 @@
-//membuat efek ketika image di hover 
-$('#sstimik').hover(function(){
-    $('#sstimik').css({
-        'transform': 'translate(0px,'+wScrool/8+'%)'
-    });
-});
+// Smooth Scrolling
+
+jQuery(document).ready(function($) {
+
+    $('.smoothscroll').on('click',function (e) {
+         e.preventDefault();
+ 
+         var target = this.hash,
+         $target = $(target);
+ 
+         $('html, body').stop().animate({
+             'scrollTop': $target.offset().top
+         }, 1000, 'swing', function () {
+             window.location.hash = target;
+         });
+     });
+ 
+     
+ $(window).scroll(function() {
+     var wScrool = $(this).scrollTop();
+ 
+     if(wScrool > $('#about').offset().top-200){
+ 
+        $('.judul_about').addClass('muncul');
+        $('.texts').addClass('muncul');
+     
+    }else if(wScrool < $('#about').offset().top-600){
+ 
+        $('.judul_about').removeClass('muncul');
+        $('.texts').removeClass('muncul');
+     
+    }
+
+    if(wScrool > $('#team').offset().top-150){
+ 
+     
+        $('.fasilitas').addClass('muncul');
+     
+    }else if(wScrool < $('#team').offset().top-600){
+ 
+        $('.fasilitas').removeClass('muncul');
+     
+    }
+ 
+     if ($(window).scrollTop() > 300) {
+         $('.main_nav').addClass('sticky');
+     } else {
+         $('.main_nav').removeClass('sticky');
+     }
+ 
+     //parallax efex pada tulisan STIMIK Indonesia
+     $('#stimik').css({
+         'transform': 'translate(0px,'+wScrool/4+'%)'
+     });
+ 
+     $('#sstimik').css({
+         'transform': 'translate(0px,'+wScrool/8+'%)'
+     });
+ 
+ 
+     
+   
+ });
+   
+ });
+ 
 
 
 // perulangan
@@ -17,27 +77,6 @@ fade($('.quoteLoop > .quote').first());
 
 // navigasi
 
-$(window).scroll(function() {
-    var wScrool = $(this).scrollTop();
-
-    if ($(window).scrollTop() > 300) {
-        $('.main_nav').addClass('sticky');
-    } else {
-        $('.main_nav').removeClass('sticky');
-    }
-
-    //parallax efex pada tulisan STIMIK Indonesia
-    $('#stimik').css({
-        'transform': 'translate(0px,'+wScrool/4+'%)'
-    });
-
-    $('#sstimik').css({
-        'transform': 'translate(0px,'+wScrool/8+'%)'
-    });
-
-    
-    
-});
 
 // Mobile navigasi
 $('.mobile-toggle').click(function() {
@@ -53,25 +92,6 @@ $('.main_nav li a').click(function() {
         $('.navigation').removeClass('open-nav');
         $('.main_nav').removeClass('open-nav');
     }
-});
-
-// Smooth Scrolling
-
-jQuery(document).ready(function($) {
-
-   $('.smoothscroll').on('click',function (e) {
-	    e.preventDefault();
-
-	    var target = this.hash,
-	    $target = $(target);
-
-	    $('html, body').stop().animate({
-	        'scrollTop': $target.offset().top
-	    }, 800, 'swing', function () {
-	        window.location.hash = target;
-	    });
-	});
-  
 });
 
 
