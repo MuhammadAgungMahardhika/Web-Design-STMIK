@@ -31,7 +31,9 @@
                             <li><a class="smoothscroll" href="#header">Beranda</a></li>
                             <li><a class="smoothscroll" href="#about">Tentang</a></li>
                             <li><a class="smoothscroll" href="#team">Fasilitas</a></li>
-                           
+                            <li><a class="smoothscroll" href="#testimonial">Quotes</a></li>
+                          
+
                         </ul>
                        
                     </nav>
@@ -95,59 +97,7 @@
             <div class="container" >
                 <h1 class="stimik fasilitas">Fasilitas</h1>
                 <div class="block fasilitas"></div>
-                <!-- awal lightbox -->
-                <!-- <div class="gambar" style=" text-align: center; margin-top: 12%;">
-                <div class="row">
-                   
-                    <div class="cssbox" style="margin-right: 65px;">
-                        <a id="image1" href="#image1">
-                            <img class="cssbox_thumb satu" src="images/1.jpg" width="70" height="50">
-                            <span class="cssbox_full">
-                                <img src="images/1.jpg">
-                            </span>
-                        </a>
-                        <a class="cssbox_close" href="#void"></a>
-                        <a class="cssbox_next" href="#image2">&gt;</a>
-                    </div>
-                    <div class="cssbox">
-                        <a id="image2" href="#image2">
-                            <img class="cssbox_thumb dua" src="images/2.jpg" width="70" height="50">
-                            <span class="cssbox_full">
-                                <img src="images/2.jpg">
-                            </span>
-                        </a>
-                        <a class="cssbox_close" href="#void"></a>
-                        <a class="cssbox_prev" href="#image1">&lt;</a>
-                        <a class="cssbox_next" href="#image3">&gt;</a>
-                    </div>
-                </div>
-                <div class="row" style="margin-top: 80px;">
-                    <div class="cssbox" style="margin-right: 70px;">
-                        <a id="image3" href="#image3">
-                            <img class="cssbox_thumb tiga" src="images/3.png" width="70" height="50">
-                            <span class="cssbox_full">
-                                <img src="images/3.png">
-                            </span>
-                        </a>
-                        <a class="cssbox_close" href="#void"></a>
-                        <a class="cssbox_prev" href="#image2">&lt;</a>
-                        <a class="cssbox_next" href="#image4">&gt;</a>
-                    </div>
-                    <div class="cssbox">
-                        <a id="image4" href="#image4">
-                            <img class="cssbox_thumb empat" src="images/4.png" width="70" height="50">
-                            <span class="cssbox_full">
-                                <img src="images/4.png">
-                            </span>
-                        </a>
-                        <a class="cssbox_close" href="#void"></a>
-                        <a class="cssbox_prev" href="#image3">&lt;</a>
-                    </div>
-                   
-                </div>
-
-            </div> -->
-             <!-- akhir lightbox -->
+              
             </div>
         </section>
 
@@ -175,8 +125,7 @@
             </div>
         </section>
 
-      
-
+       
         <!-- Footer Section -->
 
         <footer>
