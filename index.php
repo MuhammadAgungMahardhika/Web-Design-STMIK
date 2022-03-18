@@ -75,12 +75,12 @@
                     <div class="six columns">
                         <h3 class="texts">
                             <i class="fa fa-cog" aria-hidden="true"></i>Visi</h3>
-                        <p class="texts">Menjadi salah satu perguruan tinggi di bidang komputer yang terkemuka di ASEAN pada tahun 2033.</p>
+                        <p class="texts" style="text-align: justify;">Menjadi salah satu perguruan tinggi di bidang komputer yang terkemuka di ASEAN pada tahun 2033.</p>
                     </div>
                     <div class="six columns">
                         <h3 class="texts">
                             <i class="fa fa-fighter-jet" aria-hidden="true"></i>Misi</h3>
-                        <p class="texts">Mendidik dan membina mahasiswa menjadi tenaga ahli yang profesional di bidangnya, berjiwa kewirausahaan, dan berperilaku Islami serta menghasilkan lulusan yang berkualitas, kreatif, inovatif dan berdaya saing Internasional.</p>
+                        <p class="texts" style="text-align: justify;">Mendidik dan membina mahasiswa menjadi tenaga ahli yang profesional di bidangnya, berjiwa kewirausahaan, dan berperilaku Islami serta menghasilkan lulusan yang berkualitas, kreatif, inovatif dan berdaya saing Internasional.</p>
                     </div>
                 </div>
             </div>
@@ -101,24 +101,24 @@
                     <div class="six columns">
                         <h3 class="texts">
                             <i class="fa-solid fa-flask-vial"></i></i> Laboratorium</h3>
-                        <p class="texts">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel vitae nostrum accusamus nisi eius ex voluptatibus perspiciatis, obcaecati fugiat adipisci laboriosam asperiores blanditiis saepe fugit eligendi odit? Quasi, qui optio.</p>
+                        <p class="texts" style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel vitae nostrum accusamus nisi eius ex voluptatibus perspiciatis, obcaecati fugiat adipisci laboriosam asperiores blanditiis saepe fugit eligendi odit? Quasi, qui optio.</p>
                     </div>
                     <div class="six columns">
                         <h3 class="texts">
                             <i class="fa-solid fa-book"></i></i> Pustaka Digital</h3>
-                        <p class="texts">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas ipsum perferendis corporis, est sint reprehenderit pariatur eos illum aut expedita excepturi amet natus exercitationem quaerat aliquid quia a repellendus. Mollitia?</p>
+                        <p class="texts" style="text-align: justify;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas ipsum perferendis corporis, est sint reprehenderit pariatur eos illum aut expedita excepturi amet natus exercitationem quaerat aliquid quia a repellendus. Mollitia?</p>
                     </div>
                 </div>
                 <div class="row row-about ">
                     <div class="six columns">
                         <h3 class="texts">
                             <i class="fa-solid fa-people-roof"></i></i>Aula Serbaguna</h3>
-                        <p class="texts">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe rem ex eius facilis animi numquam sunt, tempora earum deserunt illo quaerat optio ipsam qui facere quidem aliquam non. Exercitationem, explicabo!</p>
+                        <p class="texts" style="text-align: justify;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Saepe rem ex eius facilis animi numquam sunt, tempora earum deserunt illo quaerat optio ipsam qui facere quidem aliquam non. Exercitationem, explicabo!</p>
                     </div>
                     <div class="six columns">
                         <h3 class="texts">
-                            <i class="fa-solid fa-volleyball"></i></i> Lapangan Olahraga</h3>
-                        <p class="texts">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deserunt ut, blanditiis tempore quia error facere in explicabo vel tenetur nisi maiores est cumque aperiam! Neque numquam ipsa labore repellendus.</p>
+                            <i class="fa-solid fa-volleyball"></i></i>Lapangan Olahraga</h3>
+                        <p class="texts" style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deserunt ut, blanditiis tempore quia error facere in explicabo vel tenetur nisi maiores est cumque aperiam! Neque numquam ipsa labore repellendus.</p>
                     </div>
                 </div>
             </div>
