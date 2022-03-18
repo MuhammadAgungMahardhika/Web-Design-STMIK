@@ -283,10 +283,10 @@ h3 .fa {
 } 
 /* Team */
 #team {
-	padding: 50px 0 100px 0;
+	padding: 50px 0 0 0;
 	background-image: url(images/6.jpg);
 	background-position: center 30%;
-	height: 80vh;
+	
 	background-size:200%;
 	position: relative;
 	z-index: 1;
@@ -405,9 +405,25 @@ h3 .fa {
 
 /* Testimonial */
 #testimonial {
-	background-color: #F5F5F5;
+	background-image: url(images/7.jpg);
 	padding: 100px 0 100px 0;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	z-index: 1;
+	background-color:#687B7E ;
 }
+
+#testimonial::after{
+	top: 0;
+	content: '';
+	width: 100%;
+	height: 50%;
+	display: block;
+	position: absolute;
+	z-index: -1;
+	background-image: linear-gradient(to bottom, #687B7E,rgba(0,0,0,0));
+} 
 .quoteLoop {
 	height: auto;
 	width: 100%;
