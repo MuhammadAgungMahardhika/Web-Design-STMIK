@@ -31,7 +31,7 @@
                             <li><a class="smoothscroll" href="#header">Beranda</a></li>
                             <li><a class="smoothscroll" href="#about">Tentang</a></li>
                             <li><a class="smoothscroll" href="#team">Fasilitas</a></li>
-                            <li><a class="smoothscroll" href="#testimonial">Quotes</a></li>
+                            <li><a class="smoothscroll" href="#testimonial">Kata Mutiara</a></li>
                           
 
                         </ul>
