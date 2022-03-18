@@ -34,11 +34,7 @@
                             <li><a class="smoothscroll" href="#contact">Kontak</a></li>
 
                         </ul>
-                        <ul>
-                            <li>
-                                <p>-----asda</p>
-                            </li>
-                        </ul>
+                       
                     </nav>
                 </div>
             </div>
