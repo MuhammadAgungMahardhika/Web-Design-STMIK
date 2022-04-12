@@ -19,7 +19,7 @@
         <!-- Header Section -->
 
         <div class="judul" id="header">
-            <div class="main_nav">
+            <div class="main_nav" style="background-color: rgb(57,138,148);">
                 <div class="container">
                     <div class="mobile-toggle">
                         <span></span>
