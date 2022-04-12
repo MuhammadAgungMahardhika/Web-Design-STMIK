@@ -27,7 +27,7 @@
                         <span></span>
                     </div>
                     <nav>
-                        <ul>
+                        <ul style="color: white;">
                             <li><a class="smoothscroll" href="#header">Beranda</a></li>
                             <li><a class="smoothscroll" href="#about">Tentang</a></li>
                             <li><a class="smoothscroll" href="#team">Fasilitas</a></li>
