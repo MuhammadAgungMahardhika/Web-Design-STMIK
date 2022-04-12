@@ -731,7 +731,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 	/* Links
 	********************************************************************* */
 	a {
-		color: rgb(57,138,148);;
+		color: rgb(57,138,148);
 	}
 	a:hover {
 		color: #0FA0CE;
