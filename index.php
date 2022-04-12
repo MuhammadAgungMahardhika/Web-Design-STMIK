@@ -21,7 +21,7 @@
     <!-- Header Section -->
 
     <div class="judul" id="header">
-        <div class="main_nav" style="background-color: rgb(57,138,148);">
+        <div class="main_nav">
             <div class="container">
                 <div class="mobile-toggle">
                     <span></span>
@@ -29,7 +29,7 @@
                     <span></span>
                 </div>
                 <nav>
-                    <ul style="color: white;">
+                    <ul>
                         <li><a class="smoothscroll" href="#header">Beranda</a></li>
                         <li><a class="smoothscroll" href="#about">Tentang</a></li>
                         <li><a class="smoothscroll" href="#team">Fasilitas</a></li>
