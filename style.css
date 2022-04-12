@@ -889,6 +889,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
 		text-transform: uppercase;
 		font-size: 12px;
 		text-decoration: none;
+		color: white;
 	}
 	nav ul a:hover {
 		color: #CFCFCF;
