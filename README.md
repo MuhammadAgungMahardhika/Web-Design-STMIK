@@ -1,2 +1,2 @@
 # LombaWebDesign
-Web Design Competition in STIMIK Indonesia Padang
+Simple Web Design Competition in STIMIK Indonesia Padang
